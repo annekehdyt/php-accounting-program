@@ -1,1 +1,2 @@
 # php-accounting-program
+This is the final project for the Capstone Design Project class on 7th semester of undergraduate. We made an accounting program based on php, which aimed to manage the stock, order of company's production. On the time of the project was in progress, the real time program was not familiar in Indonesia. So, we wanted to start the initiation to develop an online accounting program.  The demo of the website can be seen on the ppt file (however it was written in Korean, please refer to the screen captures).
